@@ -7,6 +7,8 @@
 quick_hist(data, x, binwidth)
 }
 \arguments{
+\item{data}{The source data where the variable of interest is stored.}
+
 \item{x}{Numeric column to be plotted.}
 
 \item{binwidth}{Number to specify bin width of the plot.}
